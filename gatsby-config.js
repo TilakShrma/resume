@@ -6,15 +6,15 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    title: `Tilak Sharma | Software Engineer`,
+    author: `Tilak Sharma`,
+    description: `Having 2+ years of experience, passionate software engineer with an imphasis over 
+                  developing quality solutions. I help improving existing processes that results in 
+                  business growth of clients`,
+    siteUrl: `https://tilakshrma.github.io/portfolio/`,
     social: {
-      twitter: `barancezayirli`,
+      linkedin: `tilak-sharma-085805129`,
+      instagram: `__tilaksharma97`
     },
   },
   plugins: [

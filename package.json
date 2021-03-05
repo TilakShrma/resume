@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-resume-tailwind",
+  "name": "web-resume",
   "private": true,
-  "description": "Gatsby starter for resume",
+  "description": "web resume developed using Gatsby",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
