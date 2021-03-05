@@ -7,6 +7,21 @@
   },
   "skills": [
     {
+      "title": "General",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Full Stack Development"
+        },
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "Dev Ops"
+        }
+      ]
+    },
+    {
       "type": "percent",
       "title": "Languages",
       "subskills": [
@@ -26,7 +41,7 @@
     },
     {
       "title": "Frameworks / Libraries",
-      "type": "list",
+      "type": "tag",
       "subskills": [
         {
           "name": "React",
@@ -60,7 +75,7 @@
     },
     {
       "title": "Version Control",
-      "type": "list",
+      "type": "tag",
       "subskills": [
         {
           "name": "Git"
@@ -72,7 +87,7 @@
     },
     {
       "title": "Software Tools",
-      "type": "list",
+      "type": "tag",
       "subskills": [
         {
           "name": "Google search console"
@@ -85,21 +100,6 @@
         },
         {
           "name": "Data Build Tools"
-        }
-      ]
-    },
-    {
-      "title": "General",
-      "type": "tag",
-      "subskills": [
-        {
-          "name": "Full Stack Development"
-        },
-        {
-          "name": "Data Engineering"
-        },
-        {
-          "name": "Dev Ops"
         }
       ]
     }
@@ -125,7 +125,7 @@
       "end": "",
       "role": "Software Engineer",
       "company": "Altran Technologies",
-      "description": "Worked as a Software Engineer for Cisco BU. I contributed to 3 projects, which involved technologies like python, Javascript, Jenkins and tools like Amplitude, Adobe Target. Later I was responsible for building or improvement and automation of various existing processes of data generation for marketing team."
+      "description": "Worked as a Software Engineer for Cisco Business Unit. In first two years, I contributed to 3 different projects, with technologies including python, Javascript, Jenkins and tools like Amplitude, Adobe Target. Later I was responsible for building or improvement and automation of various existing processes of data generation for marketing team."
     }
   ],
   "social": [
@@ -154,13 +154,13 @@
       "name": "SpaceX Launch Finder",
       "description": "SpaceX launch finder helps users to find and filter SpaceX launches by year, successful launches or landing. A server side rendered, progressive web app, developed using Next.Js, along with mobile responsive design.",
       "link": "https://vast-shore-47428.herokuapp.com/",
-      "company": "Self"
+      "company": "-"
     },
     {
       "name": "Spunky Store",
       "link": "https://spunky-store.herokuapp.com/",
       "description": "A demo e-commerce website for clothing, build for self learning and understanding purpose. Developed with the help of ReactJS, state management using Redux and deployed using heroku. Also integrated with stripe payment api for test payments. ",
-      "company": "Self"
+      "company": "-"
     },
     {
       "name": "Snowflake Eloqua ETL Pipeline",
