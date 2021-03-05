@@ -12,7 +12,6 @@ const Projects = ({ data }) => (
           <a
             className="btn btn-secondary"
             href={item.link}
-            target="_blank"
             rel="noopener noreferrer"
           >
             Visit Project
